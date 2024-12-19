@@ -1,0 +1,10 @@
+table{
+    width: 300px;
+}
+tr,th,td{
+    border: 1px solid blue;
+    text-align: center;
+}
+td,th{
+    padding: 5px;
+}
